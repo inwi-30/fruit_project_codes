@@ -12,3 +12,5 @@ These codes are relevant to the project named "Biofilm from Alginate and Pomelo 
 	A05-A06 คือสาลี่, A07-A08 คือมะเขือเทศ
 
 	เลขคี่ คือผลไม้ที่ไม่ได้เคลือบ เลขคู่คือผลไม้ที่เคลือบ
+
+	6 มุม -> front, back, top, bottom, left, right
